@@ -1,0 +1,14 @@
+{
+  "_comment": [
+    "Civil mod compatibility: Blood Magic.",
+    "Block IDs verified against Blood Magic namespace entries 1.20.1.",
+    "If the mod is not installed, these entries are safely ignored."
+  ],
+  "replace": false,
+  "entries": [
+    { "block": "bloodmagic:soulforge",                       "weight": 0.3 },
+    { "block": "bloodmagic:demoncrucible",                       "weight": 0.3 },
+    { "block": "bloodmagic:demoncrystallizer",                       "weight": 0.3 },
+    { "block": "bloodmagic:alchemytable",                       "weight": 0.3 }
+  ]
+}

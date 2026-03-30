@@ -1,0 +1,22 @@
+{
+  "_comment": [
+    "Civil mod compatibility: Ars Nouveau.",
+    "Block IDs verified against Ars Nouveau namespace entries 1.20.1.",
+    "If the mod is not installed, these entries are safely ignored."
+  ],
+  "replace": false,
+  "entries": [
+    { "block": "ars_nouveau:arcane_core",                       "weight": 0.8 },
+
+    { "block": "ars_nouveau:imbuement_chamber",                       "weight": 0.6 },
+    { "block": "ars_nouveau:scribes_table",                       "weight": 0.6 },
+    { "block": "ars_nouveau:alteration_table",                       "weight": 0.6 },
+
+    { "block": "ars_nouveau:storage_lectern",                       "weight": 0.6 },
+
+    { "block": "ars_nouveau:wixie_cauldron",                       "weight": 0.4 },
+
+    { "block": "ars_nouveau:source_jar",                       "weight": 0.3 },
+    { "block": "ars_technica:source_engine",                       "weight": 0.3 }
+  ]
+}

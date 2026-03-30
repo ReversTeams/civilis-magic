@@ -1,0 +1,20 @@
+{
+  "_comment": [
+    "Civil mod compatibility: Theurgy.",
+    "Block IDs verified against Theurgy namespace entries 1.20.1.",
+    "If the mod is not installed, these entries are safely ignored."
+  ],
+  "replace": false,
+  "entries": [
+    { "block": "theurgy:liquefaction_cauldron",                       "weight": 0.4 },
+    { "block": "theurgy:distiller",                       "weight": 0.4 },
+    { "block": "theurgy:incubator",                       "weight": 0.4 },
+    { "block": "theurgy:sal_ammoniac_accumulator",                       "weight": 0.4 },
+    { "block": "theurgy:mercury_catalyst",                       "weight": 0.4 },
+
+    { "block": "theurgy:reformation_result_pedestal",                       "weight": 0.3 },
+    { "block": "theurgy:calcination_oven",                       "weight": 0.3 },
+
+    { "block": "theurgy:sal_ammoniac_tank",                       "weight": 0.2 }
+  ]
+}

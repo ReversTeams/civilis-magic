@@ -1,0 +1,12 @@
+{
+  "_comment": [
+    "Civil mod compatibility: Celestisynth.",
+    "Block IDs verified against Celestisynth namespace entries 1.20.1.",
+    "If the mod is not installed, these entries are safely ignored."
+  ],
+  "replace": false,
+  "entries": [
+    { "block": "celestisynth:celestial_crafting_table",                       "weight": 0.8 },
+    { "block": "celestisynth:starlit_factory",                       "weight": 0.8 }
+  ]
+}

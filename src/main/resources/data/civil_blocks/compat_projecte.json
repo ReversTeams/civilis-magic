@@ -1,0 +1,23 @@
+{
+  "_comment": [
+    "Civil mod compatibility: Projecte.",
+    "Block IDs verified against Project namespace entries 1.20.1.",
+    "If the mod is not installed, these entries are safely ignored."
+  ],
+  "replace": false,
+  "entries": [
+    { "block": "projecte:transmutation_table",                       "weight": 1.0 },
+
+    { "block": "projecte:alchemical_chest",                       "weight": 0.4 },
+    { "block": "projecte:condenser_mk1",                       "weight": 0.4 },
+    { "block": "projecte:condenser_mk2",                       "weight": 0.4 },
+    { "block": "projecte:collector_mk1",                       "weight": 0.4 },
+    { "block": "projecte:collector_mk2",                       "weight": 0.4 },
+    { "block": "projecte:collector_mk3",                       "weight": 0.4 },
+    { "block": "projecte:relay_mk1",                       "weight": 0.4 },
+    { "block": "projecte:relay_mk2",                       "weight": 0.4 },
+    { "block": "projecte:relay_mk3",                       "weight": 0.4 },
+    { "block": "projecte:dm_furnace",                       "weight": 0.4 },
+    { "block": "projecte:rm_furnace",                       "weight": 0.4 }
+  ]
+}

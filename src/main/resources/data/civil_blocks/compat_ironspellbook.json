@@ -1,0 +1,14 @@
+{
+  "_comment": [
+    "Civil mod compatibility: Iron's Spellbook.",
+    "Block IDs verified against Iron's Spellbook namespace entries 1.20.1.",
+    "If the mod is not installed, these entries are safely ignored."
+  ],
+  "replace": false,
+  "entries": [
+    { "block": "irons_spellbooks:arcane_anvil",                       "weight": 0.6 },
+    { "block": "irons_spellbooks:scroll_forge",                       "weight": 0.6 },
+
+    { "block": "irons_spellbooks:inscription_table",                       "weight": 0.4 }
+  ]
+}
